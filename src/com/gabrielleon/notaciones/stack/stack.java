@@ -2,10 +2,10 @@ package com.gabrielleon.notaciones.stack;
 
 public class stack {
     
-    private list stackList;
+    private final list stackList;
     
     public stack(){
-        stackList = new list("list!");
+        stackList = new list("Stack!");
     }
     
     public void push(char object){

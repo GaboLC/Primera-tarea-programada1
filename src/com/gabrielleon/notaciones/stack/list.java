@@ -156,4 +156,8 @@ public class list {
         
         System.out.println("\n");
     }
+
+    void InsertToEnd(StringBuffer object) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
